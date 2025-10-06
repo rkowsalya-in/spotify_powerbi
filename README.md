@@ -1,8 +1,10 @@
 🎶 Spotify Data Analytics Dashboard
+
 This repository showcases an end-to-end data analysis and visualization project built with Power BI, using Spotify track and artist data.
 The project focuses on uncovering trends in music popularity, song duration, release patterns, and artist performance through interactive dashboards.
 
 📊 Project Overview
+
 The Power BI report provides insights across multiple dimensions of Spotify data:
 •	Artist Analysis
   o	Most featured artists
@@ -18,10 +20,12 @@ The Power BI report provides insights across multiple dimensions of Spotify data
   o	Explicit vs non-explicit track distribution
 
 🛠️ Tools & Technologies
+
 •	Power BI Desktop – Data visualization and dashboard creation
 •	Spotify Dataset – Song metadata, artists, albums, and popularity metrics
 
 📸 Dashboard Highlights
+
 Key insights from the analysis include:
 •	Taylor Swift leads in song count within the dataset.
 •	“Die With A Smile” and “Seven” are among the top-rated songs, each nearing a popularity score of 100.
@@ -33,7 +37,7 @@ Key insights from the analysis include:
 
 <img width="1593" height="893" alt="image" src="https://github.com/user-attachments/assets/3959af5e-8b79-411c-bad6-b3f499304a71" />
 
-<img width="1578" height="874" alt="image" src="https://github.com/user-attachments/assets/0e33fbdc-20c2-4de8-9afc-ecfe2fa9d1c8" />
+<img width="1525" height="853" alt="image" src="https://github.com/user-attachments/assets/5cb39286-0dcb-4bd2-a372-81c2f5664cf5" />
 
 <img width="1576" height="876" alt="image" src="https://github.com/user-attachments/assets/130ee355-1c4c-40f1-a374-ec1564efde0c" />
 
